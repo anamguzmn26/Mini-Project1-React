@@ -43,10 +43,10 @@ function App() {
       {/* --- Formulario de Contacto --- */}
       <form className="contact-form">
         <div className="form-group">
-          <label htmlFor="nombres">NOMBRES</label>
+          <label htmlFor="nombres">NOMBRES:</label>
           <input type="text" id="nombres" />
         </div>
-
+        
         <div className="form-group">
           <label htmlFor="correo">CORREO</label>
           <input type="email" id="correo" />
